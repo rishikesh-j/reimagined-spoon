@@ -1,5 +1,5 @@
-[book]
-authors = []
-language = "en"
-multilingual = false
-src = "src"
+[build]
+build-dir = "book"
+
+[output.html]
+destination = "book"
