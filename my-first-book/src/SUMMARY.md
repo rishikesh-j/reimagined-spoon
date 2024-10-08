@@ -4,4 +4,4 @@
   - [Collection](./collection.md)
     - [Local Data Staging](./local_data_staging.md)
   - [Impact](./impact.md)
-    - [Local Data Staging](./local_data_staging.md)
+    - [Inhibit System Recovery ](./inhibit_system_recovery.md)
